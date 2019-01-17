@@ -18,22 +18,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="68" />
+          <entry key="py" value="71" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="68" />
+          <entry key="Python" value="71" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="5683" />
+          <entry key="py" value="6439" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="5683" />
+          <entry key="Python" value="6439" />
         </counts>
       </usages-collector>
     </session>
@@ -41,10 +41,15 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/在给定起始点、长度和步长的情况下创建一个numpy数组序列.py">
+        <entry file="file://$PROJECT_DIR$/NumPy神经网络.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+            <state relative-caret-position="27">
+              <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+              <folding>
+                <marker date="1547706159528" expanded="true" signature="35:40" ph="..." />
+                <marker date="1547706159528" expanded="true" signature="85:90" ph="..." />
+                <marker date="1547706159528" expanded="true" signature="144:149" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -74,9 +79,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/交换二维numpy数组中的两列.py" />
-        <option value="$PROJECT_DIR$/反转二维数组的行.py" />
-        <option value="$PROJECT_DIR$/反转二维数组的列.py" />
         <option value="$PROJECT_DIR$/创建包含5到10之间随机浮动的二维数组.py" />
         <option value="$PROJECT_DIR$/在numpy数组中只打印小数点后三位.py" />
         <option value="$PROJECT_DIR$/通过e式科学记数法（如1e10）来打印一个numpy数组.py" />
@@ -125,14 +127,17 @@
         <option value="$PROJECT_DIR$/查找数组中项的第n次重复索引.py" />
         <option value="$PROJECT_DIR$/将numpy的datetime 64对象转换为datetime的datetime对象.py" />
         <option value="$PROJECT_DIR$/在给定起始点、长度和步长的情况下创建一个numpy数组序列.py" />
+        <option value="$PROJECT_DIR$/填写不规则系列的numpy日期中的缺失日期.py" />
+        <option value="$PROJECT_DIR$/从给定的一维数组创建步长.py" />
+        <option value="$PROJECT_DIR$/NumPy神经网络.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="166" />
-    <option name="y" value="104" />
+    <option name="x" value="656" />
+    <option name="y" value="53" />
     <option name="width" value="1386" />
-    <option name="height" value="944" />
+    <option name="height" value="972" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -169,8 +174,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.在给定起始点、长度和步长的情况下创建一个numpy数组序列">
-    <configuration name="从二维数组中减去一维数组，其中一维数组的每一项从各自的行中减去" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.NumPy神经网络">
+    <configuration name="从给定的一维数组创建步长" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="numpy_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -182,7 +187,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/从二维数组中减去一维数组，其中一维数组的每一项从各自的行中减去.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/从给定的一维数组创建步长.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,7 +196,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="在一维数组中找到所有的局部极大值(或峰值)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="NumPy神经网络" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="numpy_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -203,28 +208,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/在一维数组中找到所有的局部极大值(或峰值).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="查找数组中项的第n次重复索引" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="numpy_code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/查找数组中项的第n次重复索引.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NumPy神经网络.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -246,6 +230,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/在给定起始点、长度和步长的情况下创建一个numpy数组序列.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="填写不规则系列的numpy日期中的缺失日期" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="numpy_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/填写不规则系列的numpy日期中的缺失日期.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -276,19 +281,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.在一维数组中找到所有的局部极大值(或峰值)" />
-      <item itemvalue="Python.从二维数组中减去一维数组，其中一维数组的每一项从各自的行中减去" />
-      <item itemvalue="Python.查找数组中项的第n次重复索引" />
       <item itemvalue="Python.将numpy的datetime 64对象转换为datetime的datetime对象" />
       <item itemvalue="Python.在给定起始点、长度和步长的情况下创建一个numpy数组序列" />
+      <item itemvalue="Python.填写不规则系列的numpy日期中的缺失日期" />
+      <item itemvalue="Python.从给定的一维数组创建步长" />
+      <item itemvalue="Python.NumPy神经网络" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.NumPy神经网络" />
+        <item itemvalue="Python.从给定的一维数组创建步长" />
+        <item itemvalue="Python.填写不规则系列的numpy日期中的缺失日期" />
         <item itemvalue="Python.在给定起始点、长度和步长的情况下创建一个numpy数组序列" />
         <item itemvalue="Python.将numpy的datetime 64对象转换为datetime的datetime对象" />
-        <item itemvalue="Python.查找数组中项的第n次重复索引" />
-        <item itemvalue="Python.从二维数组中减去一维数组，其中一维数组的每一项从各自的行中减去" />
-        <item itemvalue="Python.在一维数组中找到所有的局部极大值(或峰值)" />
       </list>
     </recent_temporary>
   </component>
@@ -306,11 +311,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1855" height="1084" extended-state="7" />
+    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18593238" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22028354" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" />
@@ -332,29 +337,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/创建包含5到10之间随机浮动的二维数组.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/在numpy数组中只打印小数点后三位.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/dl/201901/object_detection0114/analysis_center0111.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/dl/201901/object_detection0114/analysis_center0114.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-11279">
@@ -706,6 +688,32 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/填写不规则系列的numpy日期中的缺失日期.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/从给定的一维数组创建步长.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NumPy神经网络.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+          <folding>
+            <marker date="1547706159528" expanded="true" signature="35:40" ph="..." />
+            <marker date="1547706159528" expanded="true" signature="85:90" ph="..." />
+            <marker date="1547706159528" expanded="true" signature="144:149" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
