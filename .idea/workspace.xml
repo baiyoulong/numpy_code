@@ -12,18 +12,19 @@
     <session id="259928214">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="71" />
+          <entry key="py" value="72" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="71" />
+          <entry key="Python" value="72" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -43,8 +44,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/NumPy神经网络.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+            <state relative-caret-position="-794">
+              <caret line="21" column="34" lean-forward="true" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
               <folding>
                 <marker date="1547706159528" expanded="true" signature="35:40" ph="..." />
                 <marker date="1547706159528" expanded="true" signature="85:90" ph="..." />
@@ -159,7 +160,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/dl/201901/object_detection0114/training_center0114.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tensorflow1.1.0_code" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -283,7 +284,6 @@
     <list>
       <item itemvalue="Python.将numpy的datetime 64对象转换为datetime的datetime对象" />
       <item itemvalue="Python.在给定起始点、长度和步长的情况下创建一个numpy数组序列" />
-      <item itemvalue="Python.填写不规则系列的numpy日期中的缺失日期" />
       <item itemvalue="Python.从给定的一维数组创建步长" />
       <item itemvalue="Python.NumPy神经网络" />
     </list>
@@ -291,7 +291,6 @@
       <list>
         <item itemvalue="Python.NumPy神经网络" />
         <item itemvalue="Python.从给定的一维数组创建步长" />
-        <item itemvalue="Python.填写不规则系列的numpy日期中的缺失日期" />
         <item itemvalue="Python.在给定起始点、长度和步长的情况下创建一个numpy数组序列" />
         <item itemvalue="Python.将numpy的datetime 64对象转换为datetime的datetime对象" />
       </list>
@@ -312,10 +311,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22028354" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22028354" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" />
@@ -323,7 +321,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2705515" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2705515" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -337,16 +335,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/dl/201901/object_detection0114/analysis_center0114.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11279">
-          <caret line="30" column="64" selection-start-line="30" selection-start-column="63" selection-end-line="30" selection-end-column="64" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/dl/201901/object_detection0112单独车牌检测和识别/training_center0114.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3591">
@@ -705,10 +693,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/dl/201901/object_detection0116/training_center0116.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17642">
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/NumPy神经网络.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        <state relative-caret-position="-794">
+          <caret line="21" column="34" lean-forward="true" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
           <folding>
             <marker date="1547706159528" expanded="true" signature="35:40" ph="..." />
             <marker date="1547706159528" expanded="true" signature="85:90" ph="..." />
